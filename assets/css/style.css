@@ -1,0 +1,53 @@
+body{
+    background-image: url(https://static1.squarespace.com/static/5b6467508ab72238ca56244c/5b65f60c8a922d4284feb477/5b6606f303ce647540f60042/1533413183067/oculus_wtc_fog.jpeg+%284+of+12%29.jpg?format=1500w);
+    background-repeat: no-repeat;
+    background-size: 1900px 1200px;
+    
+}
+
+
+.header{
+    width: 240px;
+    padding: 1em;
+    background-color: lightblue;
+    position: relative;
+    left: 48em;
+}
+
+.instructions{
+    position: relative;
+    left: 38em;
+    background-color:lightcoral;
+    width: 500px;
+    height: 400px;
+    padding: 3em;
+}
+
+.winsAndLosses{
+    position: relative;
+    left: 52.5em;
+    background-color: yellow;
+    width: 125px;
+    text-align: center;
+}
+
+.numberToMatch{
+    position: relative;
+    left: 50em;
+    background-color: deepskyblue;
+    width: 225px;
+}
+
+.userTotal{
+    text-align: center;
+    position: relative;
+    left: 40em;
+    background-color: violet;
+    width: 480px;
+}
+
+div.gems{
+    left: 42em;
+    position: relative;
+}
+
